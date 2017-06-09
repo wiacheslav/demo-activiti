@@ -1,0 +1,3 @@
+include 'web-ui'
+
+rootProject.name = 'demo-activiti'
